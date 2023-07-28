@@ -1,10 +1,10 @@
-import { Box, Text } from '@chakra-ui/react'
-import React from 'react'
+import { Text } from '@chakra-ui/react';
+import React from 'react';
 
 const BottomSection = () => {
   return (
-      <Text fontWeight={'medium'} pb='3%' textAlign={'center'} mt='2%'>Terms of use | Privacy policy</Text>
+    <Text fontWeight={'medium'} pb={['10%', '10%', '3%']} textAlign={'center'} mt={['5%', '5%', '2%']}>Terms of use | Privacy policy</Text>
   );
 }
 
-export default BottomSection
+export default BottomSection;
