@@ -39,7 +39,8 @@ Clone the Repository from GitHub. Then do the following steps:
 ## Some Project Screenshots :
 
 ## A) For Computer Screen:
-
-
+![Screenshot (341)](https://github.com/Pushpendra-1697/wobot/assets/104748364/b1cc9d98-8335-45dc-89ff-81609c54fd4f)
+![Screenshot (342)](https://github.com/Pushpendra-1697/wobot/assets/104748364/b3073b6a-65d9-440e-aa6c-d93d216a0747)
 ## B) For Mobile/Tablet Screen :
-
+![Screenshot (343)](https://github.com/Pushpendra-1697/wobot/assets/104748364/8d3a5ac6-ffa4-4ce9-833d-c67987c4968e)
+![Screenshot (345)](https://github.com/Pushpendra-1697/wobot/assets/104748364/9c5c821d-ad04-47ac-95ff-dabee4942e2f)
