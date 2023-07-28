@@ -1,17 +1,19 @@
-import { Box } from "@chakra-ui/react";
+import { Box, Img } from "@chakra-ui/react";
 import TopSection from "./Components/TopSection";
 import FormSection from "./Components/FormSection";
 import BottomSection from "./Components/BottomSection";
 
 function App() {
+  
   return (
-    <>
-      <Box fontWeight={'medium'} width={'50%'} m='auto' boxShadow="rgba(0, 0, 0, 0.16) 0px 1px 4px" borderRadius={'10px'}>
+    <Box bg='blackAlpha.100'>
+      <Img ml='5%' pt='2%' src='./logo.svg' title='Logo' />
+      <Box bg='white' fontWeight={'medium'} width={'50%'} m='auto' boxShadow="rgba(0, 0, 0, 0.16) 0px 1px 4px" borderRadius={'10px'}>
         <TopSection />
         <FormSection />
       </Box>
       <BottomSection />
-    </>
+    </Box>
   );
 };
 
