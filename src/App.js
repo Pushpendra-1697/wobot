@@ -1,9 +1,15 @@
+import { Box } from "@chakra-ui/react";
+import TopSection from "./Components/TopSection";
+import FormSection from "./Components/FormSection";
+import BottomSection from "./Components/BottomSection";
 
 function App() {
   return (
-    <div>
-      
-    </div>
+    <Box>
+      <TopSection />
+      <FormSection />
+      <BottomSection />
+    </Box>
   );
 }
 
