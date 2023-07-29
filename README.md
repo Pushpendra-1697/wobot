@@ -1,7 +1,7 @@
 # Wobot-Assignment
 ## Frontend Verecel Deployed Link :
 
-##### Steps to deploy REACT app: 
+##### Steps to deploy REACT app on Vercel: 
   - Login to your Vercel account
   - then follow some CLI comments on the terminal itself
        - vercel
